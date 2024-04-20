@@ -23,7 +23,7 @@ Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x
 
 ## Results
 
-![image]("D:\Desktop\Screenshot 2024-04-21 005208.png")
+![image](https://github.com/Arshjot-singh/Data_Science_Assignments/assets/107791587/ccf5e9fb-4b6b-4f51-a3ae-b21155b35e16)
 
 ![image](https://github.com/ChaitanyaSood/PredictiveAnalysisUsingStatistics/assets/96310627/e2dbe5fc-86ef-4fd8-bc67-c364358c8768)
 
